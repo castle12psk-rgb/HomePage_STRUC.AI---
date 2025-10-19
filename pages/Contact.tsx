@@ -61,15 +61,15 @@ const Contact: React.FC = () => {
                 </div>
                 <div>
                     <h4 className="font-bold text-blue-400">Address</h4>
-                    <p>서울 금천구 가산디지털2로 143</p>
+                    <p>서울시 금천구 가산디지털2로 143 가산어반워크2 1211~1214호</p>
                 </div>
                 <div>
                     <h4 className="font-bold text-blue-400">Email</h4>
-                    <p>contact@osang.tech</p>
+                    <p>castle12@osangtech.co.kr</p>
                 </div>
                  <div>
                     <h4 className="font-bold text-blue-400">Phone</h4>
-                    <p>02-1234-5678</p>
+                    <p>070-7772-7766, 010-8309-7274</p>
                 </div>
             </div>
             <div className="mt-8 h-48 bg-slate-800 rounded-lg border border-slate-700">
